@@ -10,4 +10,5 @@
 * Create a new story by navigating to create and then new story.
 ![Create a Story](https://media.giphy.com/media/1gQsVxKoL5IcT1dDSK/giphy.gif "Create a Story")
 * Collaborate with others in real time!
+
 ![Real Time Editor](https://media.giphy.com/media/28OCBQV1TSMBu0l3j8/giphy.gif "Real Time Editor")
